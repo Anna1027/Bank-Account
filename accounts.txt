@@ -1,0 +1,8 @@
+c,A Doe,100,y
+s,B Doe,125,.05
+c,C Doe,135.87,n
+s,D Doe,1250.92,.045
+r,D Doe,7546.98,t 
+c,E Doe,359,y
+s,F Doe,145.98,.06
+r,G Doe,7657.89,r
